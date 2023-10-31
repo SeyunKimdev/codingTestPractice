@@ -1,5 +1,6 @@
 package ksy;
 
+// 나머지가 1이 되는 수 찾기
 public class FindRemain1 {
     public static void main(String[] args) {
 //        System.out.println(solution(10));

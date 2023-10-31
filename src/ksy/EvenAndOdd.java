@@ -1,5 +1,6 @@
 package ksy;
 
+// 짝수와 홀수
 public class EvenAndOdd {
     public static void main(String[] args) {
         System.out.println(solution(3));
